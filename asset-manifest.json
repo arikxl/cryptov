@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/cryptov/static/css/main.3e0163cc.chunk.css",
-    "main.js": "/cryptov/static/js/main.0b859e01.chunk.js",
-    "main.js.map": "/cryptov/static/js/main.0b859e01.chunk.js.map",
+    "main.js": "/cryptov/static/js/main.cee0c747.chunk.js",
+    "main.js.map": "/cryptov/static/js/main.cee0c747.chunk.js.map",
     "runtime-main.js": "/cryptov/static/js/runtime-main.6e625559.js",
     "runtime-main.js.map": "/cryptov/static/js/runtime-main.6e625559.js.map",
     "static/css/2.786ae0dd.chunk.css": "/cryptov/static/css/2.786ae0dd.chunk.css",
@@ -19,6 +19,6 @@
     "static/css/2.786ae0dd.chunk.css",
     "static/js/2.659e924d.chunk.js",
     "static/css/main.3e0163cc.chunk.css",
-    "static/js/main.0b859e01.chunk.js"
+    "static/js/main.cee0c747.chunk.js"
   ]
 }

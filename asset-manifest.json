@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/cryptov/static/css/main.3e0163cc.chunk.css",
+    "main.js": "/cryptov/static/js/main.1b63578b.chunk.js",
+    "main.js.map": "/cryptov/static/js/main.1b63578b.chunk.js.map",
+    "runtime-main.js": "/cryptov/static/js/runtime-main.6e625559.js",
+    "runtime-main.js.map": "/cryptov/static/js/runtime-main.6e625559.js.map",
+    "static/css/2.786ae0dd.chunk.css": "/cryptov/static/css/2.786ae0dd.chunk.css",
+    "static/js/2.659e924d.chunk.js": "/cryptov/static/js/2.659e924d.chunk.js",
+    "static/js/2.659e924d.chunk.js.map": "/cryptov/static/js/2.659e924d.chunk.js.map",
+    "index.html": "/cryptov/index.html",
+    "static/css/2.786ae0dd.chunk.css.map": "/cryptov/static/css/2.786ae0dd.chunk.css.map",
+    "static/css/main.3e0163cc.chunk.css.map": "/cryptov/static/css/main.3e0163cc.chunk.css.map",
+    "static/js/2.659e924d.chunk.js.LICENSE.txt": "/cryptov/static/js/2.659e924d.chunk.js.LICENSE.txt",
+    "static/media/cryptocurrency.1548aced.png": "/cryptov/static/media/cryptocurrency.1548aced.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6e625559.js",
+    "static/css/2.786ae0dd.chunk.css",
+    "static/js/2.659e924d.chunk.js",
+    "static/css/main.3e0163cc.chunk.css",
+    "static/js/main.1b63578b.chunk.js"
+  ]
+}
